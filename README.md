@@ -1,3 +1,6 @@
+> **Reference fork**  
+> This repository is a fork of an AWS re:Invent workshop and is retained as cloud/ML reference material. The workshop content and authorship below belong to the original AWS contributors.
+
 # Building Your Own ML Application with AWS Lambda and Amazon SageMaker
 
 In this workshop, we will step through the process of deploying and hosting machine learning (ML) models with AWS Lambda and get on-demand inferences. 
